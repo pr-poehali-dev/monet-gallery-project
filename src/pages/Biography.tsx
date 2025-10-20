@@ -23,7 +23,7 @@ const Biography = () => {
 
             <div className="grid md:grid-cols-2 gap-12 items-center mb-16">
               <img 
-                src="https://cdn.poehali.dev/projects/88088953-6f50-4e04-929d-7634146d1072/files/953f42fd-301d-4eca-b0bf-b90b9e50b14a.jpg" 
+                src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Claude_Monet_1899_Nadar_crop.jpg/800px-Claude_Monet_1899_Nadar_crop.jpg" 
                 alt="Портрет Клода Моне" 
                 className="rounded-lg shadow-xl w-full"
               />

@@ -11,21 +11,21 @@ const Gallery = () => {
       title: 'Кувшинки',
       year: '1916-1919',
       description: 'Серия картин с водяными лилиями из сада в Живерни. Моне посвятил этой теме последние 30 лет жизни.',
-      image: 'https://cdn.poehali.dev/projects/88088953-6f50-4e04-929d-7634146d1072/files/63142828-2e0c-45cc-b1e8-7f3b7348fa43.jpg'
+      image: 'https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Claude_Monet_-_Water_Lilies_-_1906%2C_Ryerson.jpg/1280px-Claude_Monet_-_Water_Lilies_-_1906%2C_Ryerson.jpg'
     },
     {
       id: 2,
       title: 'Впечатление. Восход солнца',
       year: '1872',
       description: 'Картина, давшая название импрессионизму. Изображает гавань Гавра в утреннем тумане.',
-      image: 'https://cdn.poehali.dev/projects/88088953-6f50-4e04-929d-7634146d1072/files/fefc442d-e7a9-4e6d-823b-c1f1078ac42f.jpg'
+      image: 'https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Claude_Monet%2C_Impression%2C_soleil_levant.jpg/1280px-Claude_Monet%2C_Impression%2C_soleil_levant.jpg'
     },
     {
       id: 3,
       title: 'Пруд с кувшинками',
       year: '1899',
       description: 'Японский мостик в саду Моне. Художник создал более 250 картин с изображением этого пруда.',
-      image: 'https://cdn.poehali.dev/projects/88088953-6f50-4e04-929d-7634146d1072/files/63142828-2e0c-45cc-b1e8-7f3b7348fa43.jpg'
+      image: 'https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Water-Lilies-and-Japanese-Bridge-%281897-1899%29-Monet.jpg/1280px-Water-Lilies-and-Japanese-Bridge-%281897-1899%29-Monet.jpg'
     }
   ];
 

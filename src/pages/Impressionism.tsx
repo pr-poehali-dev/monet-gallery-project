@@ -25,7 +25,7 @@ const Impressionism = () => {
 
             <div className="mb-16">
               <img 
-                src="https://cdn.poehali.dev/projects/88088953-6f50-4e04-929d-7634146d1072/files/fefc442d-e7a9-4e6d-823b-c1f1078ac42f.jpg" 
+                src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Claude_Monet%2C_Impression%2C_soleil_levant.jpg/1280px-Claude_Monet%2C_Impression%2C_soleil_levant.jpg" 
                 alt="Импрессионистский пейзаж" 
                 className="rounded-lg shadow-xl w-full"
               />
